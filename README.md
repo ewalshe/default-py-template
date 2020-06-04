@@ -1,1 +1,1 @@
-# default-template
+# default-py-template
